@@ -1,6 +1,6 @@
 # [MakWeb - Explore the creative souls](https://startbootstrap.com/themes/stylish-portfolio/)
 
-[Stylish Portfolio](https://startbootstrap.com/themes/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
+[MakWeb](https://incmak.github.io/makweb/) is a collection of projects created by [MAK](https://github.com/incmak/). It features responsive design imported from [Start Bootstrap](https://startbootsrap.com) with simple UI.
 
 ## Preview
 

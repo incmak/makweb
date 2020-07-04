@@ -6,7 +6,7 @@
 
 [![Stylish Portfolio Preview](https://incmak.github.io/makweb/img/ui1.png)](https://incmak.github.io/makweb/img/ui1.png)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-stylish-portfolio/)**
+**[View Live Preview](https://incmak.github.io/makweb)**
 
 ## Status
 
@@ -20,10 +20,10 @@
 
 To begin using this template, choose one of the following options to get started:
 
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/themes/stylish-portfolio/)
-* Install via npm: `npm i startbootstrap-stylish-portfolio`
-* Clone the repo: `git clone https://github.com/StartBootstrap/startbootstrap-stylish-portfolio.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio)
+* [Download the latest release on Start Bootstrap](https://github.com/incmak/makweb.git)
+* Install via npm: `npm i makweb`
+* Clone the repo: `git clone https://github.com/incmak/makweb.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/incmak/makweb)
 
 ## Usage
 
@@ -47,23 +47,23 @@ You must have npm installed globally in order to use this build environment.
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](https://startbootstrap.com/themes/stylish-portfolio/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/issues) here on GitHub or leave a comment on the [MakWeb](https://https://incmak.github.io/makweb/img/ui1.png/).
 
 ## About
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+MakWeb is an open source library of free projets. All of the free projects on MAkweb are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-* <https://startbootstrap.com>
-* <https://twitter.com/SBootstrap>
+* <https://incmak.github.io/makweb>
+* <https://twitter.com/incmakt>
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**.
+MakWeb was created by and is maintained by **[Mueen Ahmed](http://incmak.github.io/makweb/)**.
 
-* <http://davidmiller.io>
-* <https://twitter.com/davidmillerskt>
-* <https://github.com/davidtmiller>
+* <https://incmak.github.io/makweb/>
+* <https://twitter.com/incmakt>
+* <https://github.com/incmak>
 
-Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+MAkWeb is based on the [Bootstrap](https://getbootstrap.com/),[Start Bootstrap](https://startbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
 ## Copyright and License
 
-Copyright 2013-2020 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.
+Copyright 2013-2020 MakWeb LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/blob/gh-pages/LICENSE) license.

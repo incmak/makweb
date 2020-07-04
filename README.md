@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Stylish Portfolio Preview](https://startbootstrap.com/assets/img/screenshots/themes/stylish-portfolio.png)](https://startbootstrap.github.io/startbootstrap-stylish-portfolio/)
+[![Stylish Portfolio Preview](https://incmak.github.io/makweb/img/ui1.png)
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-stylish-portfolio/)**
 

@@ -47,7 +47,7 @@ You must have npm installed globally in order to use this build environment.
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/StartBootstrap/startbootstrap-stylish-portfolio/issues) here on GitHub or leave a comment on the [MakWeb](https://https://incmak.github.io/makweb/img/ui1.png/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/incmak/makweb/issues) here on GitHub or leave a comment on the [MakWeb](https://https://incmak.github.io/makweb/img/ui1.png/).
 
 ## About
 
